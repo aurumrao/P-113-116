@@ -4,8 +4,9 @@ button{
 canvas{
     border: 2px black ridge;
 }
-h1{
+body{
+    border: 5px  ridge black;
+    
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-style: italic;
     background-color: aqua;
 }
